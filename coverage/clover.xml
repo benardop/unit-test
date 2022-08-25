@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1661437478227" clover="3.2.0">
-  <project timestamp="1661437478228" name="All files">
-    <metrics statements="21" coveredstatements="17" conditionals="16" coveredconditionals="8" methods="6" coveredmethods="6" elements="43" coveredelements="31" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
+<coverage generated="1661439232213" clover="3.2.0">
+  <project timestamp="1661439232213" name="All files">
+    <metrics statements="24" coveredstatements="20" conditionals="16" coveredconditionals="8" methods="7" coveredmethods="7" elements="47" coveredelements="35" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
     <file name="calculator.js" path="C:\projects\unit-test\js\calculator.js">
       <metrics statements="17" coveredstatements="13" conditionals="16" coveredconditionals="8" methods="4" coveredmethods="4"/>
       <line num="3" count="1" type="stmt"/>
@@ -31,6 +31,12 @@
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="uppercase.js" path="C:\projects\unit-test\js\uppercase.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
