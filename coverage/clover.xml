@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1661439232213" clover="3.2.0">
-  <project timestamp="1661439232213" name="All files">
+<coverage generated="1661439692141" clover="3.2.0">
+  <project timestamp="1661439692141" name="All files">
     <metrics statements="24" coveredstatements="20" conditionals="16" coveredconditionals="8" methods="7" coveredmethods="7" elements="47" coveredelements="35" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
     <file name="calculator.js" path="C:\projects\unit-test\js\calculator.js">
       <metrics statements="17" coveredstatements="13" conditionals="16" coveredconditionals="8" methods="4" coveredmethods="4"/>
@@ -29,7 +29,7 @@
     </file>
     <file name="reverseString.js" path="C:\projects\unit-test\js\reverseString.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="2" count="2" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
     </file>
     <file name="uppercase.js" path="C:\projects\unit-test\js\uppercase.js">

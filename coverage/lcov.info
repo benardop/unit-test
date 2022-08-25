@@ -66,8 +66,8 @@ SF:js\reverseString.js
 FN:1,reverseString
 FNF:1
 FNH:1
-FNDA:2,reverseString
-DA:2,2
+FNDA:1,reverseString
+DA:2,1
 DA:5,1
 LF:2
 LH:2
